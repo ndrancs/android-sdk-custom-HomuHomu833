@@ -46,8 +46,8 @@ This project is inspired by [lzhiyong's Android SDK Tools](https://github.com/lz
 
 **Architectures**
 - `x86`, `x86_64`
-- `aarch64`, `arm64ec` *(Windows-only)*
-- `armv7a` *(Android-only)*
+- `aarch64`, `arm64e` *(macOS-only)*,  `arm64ec` *(Windows-only)*
+- `armv7` *(Android and Windows only)*
 - `arm64e`, `x86_64h` *(macOS-only)*
 
 ---
